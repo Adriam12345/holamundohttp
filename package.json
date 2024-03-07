@@ -1,0 +1,19 @@
+{
+  "name": "holamundohttp",
+  "version": "1.0.0",
+  "description": "hola munod en texto",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriam12345/holamundohttp.git"
+  },
+  "author": "Adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriam12345/holamundohttp/issues"
+  },
+  "homepage": "https://github.com/Adriam12345/holamundohttp#readme"
+}
